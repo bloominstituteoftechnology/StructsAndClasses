@@ -2,6 +2,8 @@
 
 This assignment will help you practice the skills and concepts you learned related to structs and classes in Swift. For this project you'll build an app that is a basic contacts manager app. It will allow you to save and view contact information for your friends.
 
+Complete this assignment in either a playground or in repl.it
+
 ### Write a Contact class
 
 1. Create a new file called "Contact.swift"
