@@ -10,6 +10,6 @@ Please go to [this repl.it page](https://repl.it/student/submissions/7620067) to
 
 1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StructsAndClasses/archive/master.zip). 
 2. Unzip the downloaded file.
-3. Open the included AboutMe.playground file using Xcode if you are on a Mac.
+3. Open the included StructsAndClasses.playground file using Xcode if you are on a Mac.
 4. Complete the assignment by following the instructions included in the playground.
 5. Submit your finished work after you've completed all the excercises.
