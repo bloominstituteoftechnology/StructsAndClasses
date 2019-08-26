@@ -1,29 +1,15 @@
 # Structs and Classes
 
-This assignment will help you practice the skills and concepts you learned related to structs and classes in Swift. For this project you'll build an app that is a basic contacts manager app. It will allow you to save and view contact information for your friends.
+This assignment will help you practice the skills and concepts you learned related to structs and classes in Swift. For this assignment you'll build a couple data types that you might use in a contact manager app. 
 
-Complete this assignment in either a playground or in repl.it
+### Non-Mac Users:
 
-### Write a Contact class
+Please go to [this repl.it page](https://repl.it/student/submissions/7620067) to complete the assignment. The instructions are on that page as well.
 
-1. Create a new file called "Contact.swift"
-2. Create a struct called `Contact`
-3. Add `name: String` and `phoneNumber: String` properties. Think about whether these should be constants or variables.
-4. Write an initializer that takes `name` and `phoneNumber` as arguments and initializes the corresponding properties using `self.` syntax.
+### Mac Users:
 
-### Write A Contacts Manager class
-
-1. Create a new file called "ContactsManager.swift"
-2. Create a class called `ContactsManager`
-3. It should contain a variable array property called `contacts` whose type is an array of `Contact` structs
-4. Add a method (function) called `createContact(name: String, phoneNumber: String) -> Contact`. It should:
-    - Initialize a new instance of `Contact`
-    - Add it to the `contacts` property array
-    - Return it
-5. Create an instance of `ContactsManager`, and create various contacts using the `createContact` method.
-6. Print out the `ContactsManager` instance's `contacts` array to make sure they were added correctly.
-
-### Bonus
-
-If you finish and want another challenge, try making a function that will remove a contact that you pass into the function as an argument from the `contacts` array. 
-
+1. Download the playground for this project by clicking [here](https://github.com/LambdaSchool/StructsAndClasses/archive/master.zip). 
+2. Unzip the downloaded file.
+3. Open the included AboutMe.playground file using Xcode if you are on a Mac.
+4. Complete the assignment by following the instructions included in the playground.
+5. Submit your finished work after you've completed all the excercises.
